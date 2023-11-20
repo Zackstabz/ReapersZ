@@ -1,0 +1,76 @@
+{
+    "m_Version": 12,
+    "DisplayName": "BOSS",
+    "Icon": "Trader",
+    "Color": "FF0000FF",
+    "IsExchange": 0,
+    "InitStockPercent": 100,
+    "Items": [
+        {
+            "ClassName": "EFT_Knight_mask",
+            "MaxPriceThreshold": 1500000,
+            "MinPriceThreshold": 1500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "EFT_Vest_BlackKnight",
+            "MaxPriceThreshold": 1000000,
+            "MinPriceThreshold": 1000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "EFT_Killa_v",
+            "MaxPriceThreshold": 3000000,
+            "MinPriceThreshold": 3000000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "IMP_Vest_6B13_Killa",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "IMP_ViperGhillie_WD",
+            "MaxPriceThreshold": 1500000,
+            "MinPriceThreshold": 1500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Gekoseasteregg",
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 500000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
