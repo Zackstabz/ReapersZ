@@ -1,0 +1,402 @@
+{
+    "m_Version": 4,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "EnableBookMenu": 1,
+    "CreateBookmarks": 0,
+    "ShowHaBStats": 1,
+    "ShowPlayerFaction": 0,
+    "RuleCategories": [
+        {
+            "CategoryName": "GERAIS",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "Não é permitido vender itens in-game por dinheiro real! RMT é BAN."
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Uso de qualquer ‘’bug’’, glitch, dupping, hack ou ajuda artificial para lhe beneficiar in game resultará em ban permanente no servidor!"
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Para denunciar algo ocorrido no discord ou dentro do próprio jogo, deve enviar prova do ocorrido. Tente ser o mais detalhista possível nas suas denuncias!"
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "Acima de dois jogadores que jogam juntos, deve-se ser realizado o registro de clã no Discord e utilizar uma TAG na frente do NOME, registro feito na aba ⁠🚧⌜registro-clãs⌝ ."
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "Todos os jogadores devem ter o mesmo nome no discord e no jogo, incluindo a tag de clã."
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "É proibido utilizar o nick de adm ou de clã que não faça parte, sujeito a BAN."
+                }
+            ]
+        },
+        {
+            "CategoryName": "PvE / PvP e Jogo",
+            "Rules": [
+                {
+                    "RuleParagraph": "1.1.",
+                    "RuleText": "Servidor PvE e PvP, matar outro jogador fora de area PvP, o jogador será punido/penalizado."
+                },
+                {
+                    "RuleParagraph": "1.2.",
+                    "RuleText": "Se morrer por qualquer motivo, corra atrás do seu loot, a administração não é responsável pelo loot do seu corpo."
+                },
+                {
+                    "RuleParagraph": "1.3.",
+                    "RuleText": "Em área PVE é proibido amarrar, roubar ou dar qualquer tipo de alimento sem autorização do player."
+                },
+                {
+                    "RuleParagraph": "1.4.",
+                    "RuleText": "Itens perdidos devido a bugs do DayZ [CRASH] referente a LOOT de personagens ou CARROS, NÃO são de responsabilidade do servidor e NÃO serão devolvidos."
+                },
+                {
+                    "RuleParagraph": "1.5.",
+                    "RuleText": "Limite de 1 Veiculo Terrestre e 1 Aéreo por pessoa."
+                },
+                {
+                    "RuleParagraph": "1.6.",
+                    "RuleText": "NÃO RECICLE LOOT, se pegar vai ser ban PERMANENTE! [o loot está horrivel? reporte no ⁠💳⌜atendimento⌝  que veremos se mudou alguma coisa nos types]*"
+                }
+            ]
+        }
+    ],
+    "DisplayServerSettingsInServerInfoTab": 1,
+    "SettingCategories": [
+        {
+            "CategoryName": "Base-Building Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Raid Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Territory Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Map Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        },
+        {
+            "CategoryName": "Party Settings",
+            "Settings": [
+                {
+                    "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+                    "SettingText": "",
+                    "SettingValue": ""
+                },
+                {
+                    "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+                    "SettingText": "",
+                    "SettingValue": ""
+                }
+            ]
+        }
+    ],
+    "Links": [
+        {
+            "Name": "Homepage",
+            "URL": "https://linktr.ee/reaperszbrasil",
+            "IconName": "Homepage",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Feedback",
+            "URL": "https://linktr.ee/reaperszbrasil",
+            "IconName": "Forums",
+            "IconColor": -14473430
+        },
+        {
+            "Name": "Discord",
+            "URL": "https://discord.gg/WACJ7pTtUX",
+            "IconName": "Discord",
+            "IconColor": -9270822
+        },
+        {
+            "Name": "Pix",
+            "URL": "https://nubank.com.br/pagar/imey8/PVzbSyzPJQ",
+            "IconName": "Patreon",
+            "IconColor": -432044
+        },
+        {
+            "Name": "Steam",
+            "URL": "https://steamcommunity.com/id/zackstabz/",
+            "IconName": "Steam",
+            "IconColor": -14006434
+        },
+        {
+            "Name": "GitHub Zackstabz",
+            "URL": "https://github.com/Zackstabz",
+            "IconName": "GitHub",
+            "IconColor": -16777216
+        },
+        {
+            "Name": "YouTube",
+            "URL": "https://www.youtube.com/@Zackstabz/videos",
+            "IconName": "YouTube",
+            "IconColor": -65536
+        }
+    ],
+    "Descriptions": [
+        {
+            "CategoryName": "Informações",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Para conhecer mais informações, entre no nosso discord! Tanto pelo aplicativo ou pelo PC! Tem recursos exclusivos!"
+                }
+            ]
+        },
+        {
+            "CategoryName": "MOD's do Servidor",
+            "Descriptions": [
+                {
+                    "DescriptionText": "Tem diversos mods, caso queira sugerir algum mod, envie no nosso discord!"
+                }
+            ]
+        }
+    ],
+    "CraftingCategories": [
+        {
+            "CategoryName": "#STR_BLThings",
+            "Results": [
+              "bl_old_crate",
+              "bl_rain_collector_Kit",
+              "bl_stove_barrel_Kit",
+              "bl_special_item_Kit",
+              "bl_pallet_table_Kit",
+              "bl_pallet_sofa_Kit",
+              "bl_pallet_cabinet_Kit",
+              "bl_pallet_bed_Kit",
+              "bl_pallet_box_Kit",
+              "bl_pallet_frame_solo",
+              "bl_pallet"
+            ]
+        },
+        {
+            "CategoryName": "Accessories",
+            "Results": [
+                "armband_",
+                "armband_white",
+                "eyepatch_improvised"
+            ]
+        },
+        {
+            "CategoryName": "Backpacks",
+            "Results": [
+                "courierbag",
+                "furcourierbag",
+                "furimprovisedbag",
+                "improvisedbag",
+                "leathersack_brown"
+            ]
+        },
+        {
+            "CategoryName": "Base-Building",
+            "Results": [
+                "expansionbarbedwirekit",
+                "fencekit",
+                "expansionfloorkit",
+                "expansionhelipadkit",
+                "expansionhescokit",
+                "expansionrampkit",
+                "shelterkit",
+                "expansionstairkit",
+                "territoryflagkit",
+                "expansionwallkit",
+                "watchtowerkit"
+            ]
+        },
+        {
+            "CategoryName": "Camouflage",
+            "Results": [
+                "camonet",
+                "ghillieatt_tan",
+                "ghillieatt_mossy",
+                "ghillieatt_woodland",
+                "ghilliebushrag_tan",
+                "ghilliebushrag_mossy",
+                "ghilliebushrag_woodland",
+                "ghilliehood_tan",
+                "ghilliehood_mossy",
+                "ghilliehood_woodland",
+                "ghilliesuit_tan",
+                "ghilliesuit_mossy",
+                "ghilliesuit_woodland",
+                "ghillietop_tan",
+                "ghillietop_mossy",
+                "ghillietop_woodland"
+            ]
+        },
+        {
+            "CategoryName": "Cooking",
+            "Results": [
+                "fireplace",
+                "firewood",
+                "handdrillkit"
+            ]
+        },
+        {
+            "CategoryName": "Fishing",
+            "Results": [
+                "bait",
+                "bonebait",
+                "bonehook",
+                "improvisedfishingrod"
+            ]
+        },
+        {
+            "CategoryName": "Food",
+            "Results": [
+                "carpfilletmeat",
+                "mackerelfilletmeat",
+                "expansionmilkbottle",
+                "potato",
+                "slicedpumpkin"
+            ]
+        },
+        {
+            "CategoryName": "Horticulture",
+            "Results": [
+                "pepperseeds",
+                "pumpkinseeds",
+                "tomatoseeds",
+                "zucchiniseeds"
+            ]
+        },
+        {
+            "CategoryName": "Lights",
+            "Results": [
+                "longtorch",
+                "torch"
+            ]
+        },
+        {
+            "CategoryName": "Medical Supplies",
+            "Results": [
+                "bloodbagiv",
+                "salinebagiv",
+                "splint"
+            ]
+        },
+        {
+            "CategoryName": "Melee Weapons",
+            "Results": [
+                "nailedbaseballbat",
+                "stoneknife"
+            ]
+        },
+        {
+            "CategoryName": "Storage",
+            "Results": [
+                "woodencrate"
+            ]
+        },
+        {
+            "CategoryName": "Supplies",
+            "Results": [
+                "boarpelt",
+                "burlapsack",
+                "burlapstrip",
+                "longwoodenstick",
+                "expansionlumber1",
+                "expansionlumber1_5",
+                "expansionlumber3",
+                "nails",
+                "netting",
+                "rag",
+                "rope",
+                "sharpwoodenstick",
+                "smallstone",
+                "tannedleather",
+                "woodenplank",
+                "woodenstick"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Modifications",
+            "Results": [
+                "sawedoffizh18shotgun"
+            ]
+        },
+        {
+            "CategoryName": "Weapon Attachments",
+            "Results": [
+                "improvisedsuppressor"
+            ]
+        }
+    ]
+}

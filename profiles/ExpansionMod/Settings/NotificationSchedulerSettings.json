@@ -1,0 +1,26 @@
+{
+    "m_Version": 2,
+    "Enabled": 0,
+    "UTC": 0,
+    "UseMissionTime": 0,
+    "Notifications": [
+        {
+            "Hour": 24,
+            "Minute": 59,
+            "Second": 0,
+            "Title": "AVISO",
+            "Text": "O servidor tem mudanças todas as Noites, até as 6hrs da manhã!",
+            "Icon": "Info",
+            "Color": ""
+        },
+        {
+            "Hour": 0,
+            "Minute": 0,
+            "Second": 1,
+            "Title": "CUIDADO COM HELICRASH",
+            "Text": "Helicrash nas madrugadas são PvP!",
+            "Icon": "Info",
+            "Color": ""
+        }
+    ]
+}
