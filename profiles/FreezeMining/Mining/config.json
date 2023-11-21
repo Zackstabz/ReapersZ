@@ -1,0 +1,277 @@
+{
+    "MRFRMINE": [
+        {
+            "actionText": "Minério de Cobre",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_copper"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_copper",
+                    "probability": 14
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Minério de Enxofre",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_sulphur"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_sulphur",
+                    "probability": 25
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Minério de Ouro",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_gold"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_gold",
+                    "probability": 8
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Minério de Prata",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_silver"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_silver",
+                    "probability": 10
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Minério de Estanho",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_tin"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_tin",
+                    "probability": 16
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Mina de Pedra",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_stone"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Stone",
+                    "probability": 90
+                },
+                {
+                    "item": "SmallStone",
+                    "probability": 10
+                }
+            ]
+        },
+        {
+            "actionText": "Minério de Urânio",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_uranium"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_uranium",
+                    "probability": 3
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Âmbar",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_AmberGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Amber",
+                    "probability": 35
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Ametista",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_AmethystGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Amethyst",
+                    "probability": 4
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Aquamarina",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_AquamarineGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Aquamarine",
+                    "probability": 6
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Diamante",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_FancyColourDiamondGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_FancyColourDiamond",
+                    "probability": 1
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Iolita",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_IoliteGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Iolite",
+                    "probability": 18
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Jade",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_JadeGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Jade",
+                    "probability": 12
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Rubi",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_RubyGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Ruby",
+                    "probability": 2
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Veia de Turquesa",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_TurquoiseGemNode"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "FreezeGem_Turquoise",
+                    "probability": 20
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        },
+        {
+            "actionText": "Minério de Ferro",
+            "max_mine": -1,
+            "enabledTypes": [
+                "FreezeNode_iron"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Freezestone_iron",
+                    "probability": 30
+                },
+                {
+                    "item": "Stone",
+                    "probability": 40
+                }
+            ]
+        }
+    ],
+    "minedItemsProbabilities": {}
+}
