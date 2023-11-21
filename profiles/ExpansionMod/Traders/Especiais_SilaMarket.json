@@ -1,0 +1,22 @@
+{
+    "m_Version": 11,
+    "DisplayName": "ITENS ESPECIAIS",
+    "MinRequiredReputation": 35000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "SILAMARKET_EspeciaisGranadas:1",
+        "SILAMARKET_EspeciaisUteis:1"
+    ],
+    "Items": {
+        "nvgoggles": 1,
+        "rangefinder": 1,
+        "battery9v": 1,
+        "nvgheadstrap": 1
+    }
+}

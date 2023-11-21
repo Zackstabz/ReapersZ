@@ -1,0 +1,16 @@
+{
+    "m_Version": 11,
+    "DisplayName": "TRAFICANTE",
+    "MinRequiredReputation": 50000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "TraderIcon",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Traficante:1"
+    ],
+    "Items": {}
+}

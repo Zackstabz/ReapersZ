@@ -1,0 +1,17 @@
+{
+    "m_Version": 11,
+    "DisplayName": "O CAÇADOR",
+    "MinRequiredReputation": 10000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Wild Pork",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "JaegerHunterCARNES:2",
+        "JaegerHunterPELES:2"
+    ],
+    "Items": {}
+}

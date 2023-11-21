@@ -1,0 +1,24 @@
+{
+    "m_Version": 11,
+    "DisplayName": "ACESSORIOS ARMAS",
+    "MinRequiredReputation": 40000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Gun Bullets",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "SILAMARKET_ArmasAcessoriosBaionetas:1",
+        "SILAMARKET_ArmasAcessoriosCarregador:1",
+        "SILAMARKET_ArmasAcessoriosCoronhas:1",
+        "SILAMARKET_ArmasAcessoriosFacas:1",
+        "SILAMARKET_ArmasAcessoriosHandguard:1",
+        "SILAMARKET_ArmasAcessoriosMiras:1",
+        "SILAMARKET_ArmasAcessoriosMuniCaixa:1",
+        "SILAMARKET_ArmasAcessoriosMunicao:1",
+        "SILAMARKET_ArmasAcessoriosSuppressor:1"
+    ],
+    "Items": {}
+}

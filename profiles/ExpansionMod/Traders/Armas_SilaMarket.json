@@ -1,0 +1,22 @@
+{
+    "m_Version": 11,
+    "DisplayName": "ARMEIRO",
+    "MinRequiredReputation": 45000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Gun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "SILAMARKET_ArmasAssault:1",
+        "SILAMARKET_ArmasPistolas:1",
+        "SILAMARKET_ArmasRifles:1",
+        "SILAMARKET_ArmasSniper:1",
+        "SILAMARKET_ArmasSubMetralhadoras:1",
+        "SILAMARKET_ArmasEspingardas:1",
+        "SILAMARKET_ArmasCorpo:1"
+    ],
+    "Items": {}
+}

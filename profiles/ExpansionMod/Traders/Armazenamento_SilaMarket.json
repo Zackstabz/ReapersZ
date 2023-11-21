@@ -1,0 +1,20 @@
+{
+    "m_Version": 11,
+    "DisplayName": "ARMAZEMENTO",
+    "MinRequiredReputation": 50000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Tent",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "SILAMARKET_ArmazenamentoJardinagem:1",
+        "SILAMARKET_ArmazenamentoCadeados:1",
+        "SILAMARKET_Armazenamento:1",
+        "SILAMARKET_ArmazenamentoTendas:1",
+        "SILAMARKET_ArmazenamentoBandeiras:1"
+    ],
+    "Items": {}
+}

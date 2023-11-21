@@ -1,0 +1,19 @@
+{
+    "m_Version": 11,
+    "DisplayName": "CONSUMIVEIS",
+    "MinRequiredReputation": 50000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "SILAMARKET_ConsumiveisBebidas:1",
+        "SILAMARKET_ConsumiveisComida:1",
+        "SILAMARKET_ConsumiveisFrutas:1",
+        "SILAMARKET_ConsumiveisCarnes:0"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,20 @@
+{
+    "m_Version": 11,
+    "DisplayName": "FERRAMENTAS",
+    "MinRequiredReputation": 50000,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "SILAMARKET_Ferramentas:1",
+        "SILAMARKET_FerramentasSuprimentos:1",
+        "SILAMARKET_FerramentasKits:1",
+        "SILAMARKET_FerramentasEletronicas:1",
+        "SILAMARKET_FerramentasLuzes:1"
+    ],
+    "Items": {}
+}
