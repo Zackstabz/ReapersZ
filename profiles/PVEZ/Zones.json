@@ -1,0 +1,324 @@
+[
+    {
+        "Type": 0,
+        "Name": "AREA 42",
+        "X": 13384.0,
+        "Z": 9878.0,
+        "Radius": 850,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Leste de Harbor",
+        "X": 11434.0,
+        "Z": 10102.0,
+        "Radius": 750,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "2 3 5 6",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "ALCATRAZ",
+        "X": 15760.0,
+        "Z": 4798.0,
+        "Radius": 550,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Ilha Paris",
+        "X": 3374.0,
+        "Z": 3862.0,
+        "Radius": 1680,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 4 5",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "PÂNTANO",
+        "X": 3730.0,
+        "Z": 8892.0,
+        "Radius": 925,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 3 5 6",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "KMUC BUNKER",
+        "X": 7212.0,
+        "Z": 11622.0,
+        "Radius": 440,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 2 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "MILITAR BAYVILLE",
+        "X": 10051.0,
+        "Z": 12470.0,
+        "Radius": 290,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "3 4",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "AEROPORTO CENTRAL",
+        "X": 5456.5,
+        "Z": 3612.0,
+        "Radius": 666,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "3 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "PRISÃO",
+        "X": 5452.0,
+        "Z": 792.5,
+        "Radius": 475,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "3 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "USINA ELÉTRICA",
+        "X": 4764.5,
+        "Z": 7097.5,
+        "Radius": 350,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "AGUAS PROFUNDAS",
+        "X": 458.5,
+        "Z": 12328.5,
+        "Radius": 2340,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 5 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "ILHA DOS CISNES",
+        "X": 1247.5,
+        "Z": 15887.5,
+        "Radius": 1800,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "2 4 6",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "AEROPORTO NORTE",
+        "X": 10243.5,
+        "Z": 15700.5,
+        "Radius": 2220,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1 5",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "CRATERA",
+        "X": 13998.0,
+        "Z": 2158.0,
+        "Radius": 1700,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "7 1 4 5",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "ACAMPAMENTO URSO",
+        "X": 8912.0,
+        "Z": 6019.0,
+        "Radius": 430,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "3",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "ACAMPAMENTO ALCATRAZ",
+        "X": 14341.5,
+        "Z": 5277.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 6154.50,
+        "Z": 10725.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "5",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 5908.00,
+        "Z": 9228.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "6",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 5678.00,
+        "Z": 7868.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 5444.00,
+        "Z": 6462.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "1",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 5194.00,
+        "Z": 5024.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "2",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 4954.00,
+        "Z": 3598.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "3",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Cajado da Lua",
+        "X": 4710.00,
+        "Z": 2178.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 1,
+        "Activity_Schedule": {
+            "Days": "4",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    }
+]
