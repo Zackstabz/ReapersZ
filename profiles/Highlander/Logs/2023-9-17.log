@@ -1,0 +1,20 @@
+1:4:22 Shutting down
+1:5:30 Initializing
+6:8:9 Shutting down
+6:9:15 Initializing
+11:11:12 Shutting down
+11:12:16 Initializing
+16:14:19 Shutting down
+16:15:30 Initializing
+17:16:36 Initializing
+17:23:52 Deleting duplicate item: IMP_Bag_Ataka3 (IMP_Bag_Ataka3_ColorBase<3e774e80>) pos=<7221.312012, 6.575228, 8437.928711> id=E4A052ED54441441EAEA5F8D387F0F29
+17:23:52 Deleting duplicate item: IMP_Pouch_Ataka3 (IMP_Pouch_Ataka3<41ff1e80>) pos=<7221.543457, 6.571252, 8438.184570> id=1CF23E343A49A8861080D2B36A811767
+17:23:52 Deleting duplicate item: Ammo_45ACP (Ammo_45ACP<3e770920>) pos=<7221.543457, 6.571252, 8438.184570> id=04E3D5C7964F7695D08797A52DEDB68B
+17:23:52 Deleting duplicate item: CP_Bagger (CP_Bagger<41ffa340>) pos=<7221.543457, 6.571252, 8438.184570> id=FD570CC71C43971B45434BB82A3BC15A
+17:23:52 Deleting duplicate item: ExpansionGoldNugget (ExpansionGoldNugget<41ffae50>) pos=<7221.543457, 6.571252, 8438.184570> id=414C71D3924CE46AC11CC1BB8E4F3900
+17:23:52 Deleting duplicate item: Mag_MKII_10Rnd (Mag_MKII_10Rnd<3e76f200>) pos=<7221.543457, 6.571252, 8438.184570> id=C12FC237794541A7CDF0949F94612596
+17:23:52 Deleting duplicate item: Mag_CZ75_15Rnd (Mag_CZ75_15Rnd<3e7714b0>) pos=<7221.543457, 6.571252, 8438.184570> id=65D444991F4F84E48719548E68F5573A
+17:23:52 Deleting duplicate item: Mag_MKII_10Rnd (Mag_MKII_10Rnd<3e7742f0>) pos=<7221.543457, 6.571252, 8438.184570> id=AC01B5F7DA43612567A20CADE04AAA8E
+17:32:43 Initializing
+22:35:29 Shutting down
+22:36:44 Initializing

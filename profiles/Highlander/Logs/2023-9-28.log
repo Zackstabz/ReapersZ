@@ -1,0 +1,48 @@
+0:13:28 Shutting down
+0:14:39 Initializing
+5:17:38 Shutting down
+5:18:48 Initializing
+10:20:44 Shutting down
+10:21:46 Initializing
+15:23:46 Shutting down
+15:24:47 Initializing
+19:44:6 Initializing
+19:47:4 Deleting duplicate item: PortableGasStove (PortableGasStove<ae46fb00>) pos=<5224.932617, 21.437241, 2342.355713> id=85A667E73640C218E2CF3BA90A2D6B5B
+19:47:4 Deleting duplicate item: Pot (Pot<ae470690>) pos=<5224.932617, 21.437241, 2342.355713> id=1802D8D8F84CC998C5DFF39B1419B91A
+19:47:4 Deleting duplicate item: Blowtorch (Blowtorch<6168dad0>) pos=<5224.932617, 21.437241, 2342.355713> id=D4024ED23F4FFF697BFDE6BA9A55DC4D
+19:47:4 Deleting duplicate item: MediumGasCanister (MediumGasCanister<6e7e9d40>) pos=<5224.813477, 21.432110, 2342.279297> id=D2E870675B49A585C117A98D70CBF31C
+19:47:4 Deleting duplicate item: MediumGasCanister (MediumGasCanister<67ee0080>) pos=<5224.932617, 21.437241, 2342.355713> id=30156135B749AF686F2759B97EB37865
+19:47:4 Deleting duplicate item: UniversalLight (UniversalLight<ae5dbae0>) pos=<5224.932617, 21.437241, 2342.355713> id=B67D977E714D167270D00A869A966093
+19:47:4 Deleting duplicate item: BearSteakMeat (BearSteakMeat<ae476ea0>) pos=<5224.932617, 21.437241, 2342.355713> id=7511687A3249625B1FE2BAB91BEDACCF
+19:47:4 Deleting duplicate item: MVS_Molle_Panel_Tan (MVS_Pouch_Base<ae5da4c0>) pos=<5224.932617, 21.437241, 2342.355713> id=F947E3564D452B5C85D3F8BF1B966364
+19:49:18 Initializing
+19:51:14 Deleting duplicate item: SewingKit (SewingKit<30315030>) pos=<5224.792480, 21.437231, 2342.290039> id=3E973CCFE342641EE866BCBC327E8841
+19:52:40 Deleting duplicate item: PlateCarrierPouches (PlateCarrierPouches<c74584b0>) pos=<4649.547363, 22.226994, 8228.666016> id=10A48D14624E2254FE861E8EA803D98E
+19:52:40 Deleting duplicate item: SmallProtectorCase (SmallProtectorCase<e7001760>) pos=<4649.547363, 22.226994, 8228.666016> id=2A9D100CD04C8F109C84EA89299FC2FF
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<f7353df0>) pos=<4649.547363, 22.226994, 8228.666016> id=D45F4E7A9F4CD9EC8B201099B153C8FA
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<c6e288a0>) pos=<4649.547363, 22.226994, 8228.666016> id=1F0E21323545D0B2959D2B836EA0CF0A
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<b8d76690>) pos=<4649.547363, 22.226994, 8228.666016> id=DBCBBF57C34DF01BD76B719B0B069D55
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<ace7910>) pos=<4649.547363, 22.226994, 8228.666016> id=3D19257E744587080E2EDB9799EE3EAD
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<fe359cc0>) pos=<4649.547363, 22.226994, 8228.666016> id=9B7642D22448531FBFA7D488882CA1F6
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<ef848410>) pos=<4649.547363, 22.226994, 8228.666016> id=3764CCC7C34CEC519B6791BA56B751D9
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<fde32a20>) pos=<4649.547363, 22.226994, 8228.666016> id=F12D923D8140D4C712AEF899534D9EA3
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<e90f0210>) pos=<4649.547363, 22.226994, 8228.666016> id=2E6E6D05744F8E1C5B97B6A4E88BE2FE
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<f360ca50>) pos=<4649.547363, 22.226994, 8228.666016> id=290AA3ACD04B85C71BC4FCB632169DBB
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<fa1646a0>) pos=<4649.547363, 22.226994, 8228.666016> id=901255F4A24052F4BCAAD9B34E681CD1
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<defc4de0>) pos=<4649.547363, 22.226994, 8228.666016> id=E7649F33DE4DC8D16FA16AA7973D1566
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc572c0>) pos=<4649.547363, 22.226994, 8228.666016> id=2FD01C9C844F510BC80379AB173CCE4B
+19:52:40 Deleting duplicate item: SmallProtectorCase (SmallProtectorCase<2dc593f0>) pos=<4649.547363, 22.226994, 8228.666016> id=8ABE521ED948DD1D9656F586BCB84F85
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc53060>) pos=<4649.547363, 22.226994, 8228.666016> id=3C90042C55407542CE5FA88EEBA7BEF0
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc59f00>) pos=<4649.547363, 22.226994, 8228.666016> id=51F09ADB444ED5B8014C22871DF93375
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc55ca0>) pos=<4649.547363, 22.226994, 8228.666016> id=E296E25E0D438B643145F49D5BAE0127
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc57dd0>) pos=<4649.547363, 22.226994, 8228.666016> id=81141989214D45AED83D6FB3D1C02C31
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc53b70>) pos=<4649.547363, 22.226994, 8228.666016> id=52FFEDAAEA4B242AD7F8E88EEE011C1C
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc55190>) pos=<4649.547363, 22.226994, 8228.666016> id=80FCFFAC4E4E5E19996AA3B99F8BAF1E
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc54680>) pos=<4649.547363, 22.226994, 8228.666016> id=6AE8358D004B52023C6C0EBCC6A2D2B8
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc5cb40>) pos=<4649.547363, 22.226994, 8228.666016> id=A6628B8C754929051144E1B461B02CBE
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc588e0>) pos=<4649.547363, 22.226994, 8228.666016> id=B79A67A93E404519D8070FA1C2CA50C6
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc5aa10>) pos=<4649.547363, 22.226994, 8228.666016> id=F64967FCF44E73FCBD033A994756623C
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc5b520>) pos=<4649.547363, 22.226994, 8228.666016> id=923DADD2F1439644C02BC1884E2539F1
+19:52:40 Deleting duplicate item: SmallStone (SmallStone<2dc5c030>) pos=<4649.547363, 22.226994, 8228.666016> id=2C210986FB420FE3E123BBBA44223531
+21:43:16 Shutting down
+21:44:50 Initializing
