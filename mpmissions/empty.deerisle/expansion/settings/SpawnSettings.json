@@ -1,0 +1,212 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "Vila da Montanha",
+            "Positions": [
+                [
+                    7090.00,
+                    0.0,
+                    8752.00
+                ],
+                [
+                    7200.00,
+                    0.0,
+                    8309.00
+                ],
+                [
+                    7051.00,
+                    0.0,
+                    8447.00
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Vila da Montanha",
+            "Positions": [
+                [
+                    7551.00,
+                    0.0,
+                    8466.00
+                ],
+                [
+                    7524.00,
+                    0.0,
+                    8346.00
+                ],
+                [
+                    7387.00,
+                    0.0,
+                    8650.00
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Vila Verde",
+            "Positions": [
+                [
+                    4596.00,
+                    0.0,
+                    1581.00
+                ],
+                [
+                    4834.00,
+                    0.0,
+                    1714.00
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Vila Verde",
+            "Positions": [
+                [
+                    4656.00,
+                    0.0,
+                    1366.00
+                ],
+                [
+                    4850.00,
+                    0.0,
+                    1407.00
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Vila Pequena",
+            "Positions": [
+                [
+                    10284.00,
+                    0.0,
+                    4272.00
+                ],
+                [
+                    9864.00,
+                    0.0,
+                    4319.00
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Vila Pequena",
+            "Positions": [
+                [
+                    10485.00,
+                    0.0,
+                    4830.00
+                ],
+                [
+                    10629.00,
+                    0.0,
+                    5215.00
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 0,
+        "SetRandomHealth": 0,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
+            "TShirt_RedBlackStripes"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CanvasPants_Beige",
+            "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
+            "CanvasPantsMidi_Violet"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnOnTerritory": 1,
+    "StartingGear": {
+        "EnableStartingGear": 0,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Chemlight_White",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 500.0,
+    "SpawnWaterValue": 500.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 1800,
+    "TerritoryRespawnCooldown": 120,
+    "PunishMultispawn": 0,
+    "PunishCooldown": 300,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 0,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}

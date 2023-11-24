@@ -1,0 +1,75 @@
+{
+    "m_Version": 4,
+    "CanBuildAnywhere": 1,
+    "AllowBuildingWithoutATerritory": 0,
+    "DeployableOutsideATerritory": [
+        "ExpansionSatchel",
+        "Fireplace",
+        "TerritoryFlagKit",
+        "ShelterKit",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
+        "SeaChest"
+    ],
+    "DeployableInsideAEnemyTerritory": [
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap"
+    ],
+    "CanCraftVanillaBasebuilding": 0,
+    "CanCraftExpansionBasebuilding": 1,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 0,
+    "DismantleInsideTerritory": 0,
+    "DismantleAnywhere": 0,
+    "CodelockActionsAnywhere": 1,
+    "CodeLockLength": 6,
+    "DoDamageWhenEnterWrongCodeLock": 1,
+    "DamageWhenEnterWrongCodeLock": 10.0,
+    "RememberCode": 1,
+    "CanCraftTerritoryFlagKit": 1,
+    "SimpleTerritory": 0,
+    "AutomaticFlagOnCreation": 1,
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [
+        {
+            "Name": "Sila Market",
+            "Center": [
+                9074.0,
+                16.770000457763673,
+                7184.0
+            ],
+            "Radius": 1000.0,
+            "Items": [
+                "Fireplace",
+                "LandMineTrap",
+                "BearTrap",
+                "FishNetTrap",
+                "RabbitSnareTrap",
+                "SmallFishTrap",
+                "TripwireTrap",
+                "ExplosivesBase"
+            ],
+            "IsWhitelist": 1,
+            "CustomMessage": "Não é permitido construir nessa area, SILA MARKET está muito próxima! Leia as Regras de Construção"
+        }
+    ],
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 1,
+    "DismantleFlagMode": 1,
+    "FlagMenuMode": 1,
+    "OverrideVanillaEntityPlacement": 0,
+    "EnableVirtualStorage": 0,
+    "VirtualStorageExcludedContainers": [
+        "ExpansionAirdropContainerBase"
+    ]
+}

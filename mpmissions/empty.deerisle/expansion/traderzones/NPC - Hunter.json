@@ -1,0 +1,35 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Hunter Area",
+    "Position": [
+        6135.77001953125,
+        429.9490051269531,
+        10725.2001953125
+    ],
+    "Radius": 15.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "wildboarpelt": 1,
+        "bearpelt": 1,
+        "cowsteakmeat": 1,
+        "bear_beige": 1,
+        "wolfsteakmeat": 1,
+        "goatpelt": 1,
+        "bearsteakmeat": 1,
+        "goatsteakmeat": 1,
+        "boarsteakmeat": 1,
+        "pigpelt": 1,
+        "deersteakmeat": 1,
+        "guts": 1,
+        "wolfpelt": 1,
+        "smallguts": 1,
+        "pigsteakmeat": 1,
+        "sheepsteakmeat": 1,
+        "deerpelt": 1,
+        "cowpelt": 1,
+        "pelt_fox": 1,
+        "bone": 1,
+        "sheeppelt": 1
+    }
+}

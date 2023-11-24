@@ -1,0 +1,30 @@
+{
+    "m_Version": 8,
+    "Enabled": 1,
+    "FrameRateCheckSafeZoneInMs": 0,
+    "CircleZones": [
+        {
+            "Center": [
+                9074.0,
+                16.770000457763673,
+                7184.0
+            ],
+            "Radius": 65.0
+        }
+    ],
+    "PolygonZones": [],
+    "ActorsPerTick": 5,
+    "DisableVehicleDamageInSafeZone": 1,
+    "EnableForceSZCleanup": 1,
+    "ItemLifetimeInSafeZone": 180.0,
+    "ForceSZCleanup_ExcludedItems": [   
+    "FBF_Fireplace",
+    "FBF_FireplaceIgnited",
+    "FBF_FireplaceIndoor",
+    "FBF_Pot",
+    "FBF_FryindPan",
+    "FBF_FireplaceIndoor",
+    "FBF_OvenIndoor",
+    "Tripod"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Sila Market",
+    "Position": [
+        9074.0,
+        0.0,
+        7184.0
+    ],
+    "Radius": 61.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}

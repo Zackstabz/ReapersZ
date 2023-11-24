@@ -1,0 +1,21 @@
+{
+    "ConfigVersion": 2,
+    "StorageID": 1,
+    "ClassName": "ExpansionPersonalStorageChest",
+    "DisplayName": "Armazenamento Pessoal NÃO COLOQUE MAIS QUE 20 ITENS! PODE BUGAR",
+    "DisplayIcon": "Backpack",
+    "Position": [
+        9092.73,
+        17.9068,
+        7167.98
+    ],
+    "Orientation": [
+        102.846,
+        0.0,
+        0.0
+    ],
+    "QuestID": -1,
+    "Reputation": 0,
+    "Faction": "",
+    "IsGlobalStorage": 0
+}

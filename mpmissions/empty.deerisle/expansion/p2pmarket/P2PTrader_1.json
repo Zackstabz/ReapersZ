@@ -1,0 +1,38 @@
+{
+    "m_Version": 5,
+    "m_TraderID": 1,
+    "m_ClassName": "ExpansionP2PTraderAIEva",
+    "m_Position": [
+        9091.4,
+        17.1525,
+        7171.15
+    ],
+    "m_Orientation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_LoadoutFile": "YellowKingLoadout",
+    "m_VehicleSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_WatercraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_AircraftSpawnPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "m_DisplayName": "Market Global",
+    "m_DisplayIcon": "Matches",
+    "m_Faction": "InvincibleObservers",
+    "m_Waypoints": [],
+    "m_EmoteID": 46,
+    "m_EmoteIsStatic": 0,
+    "m_IsGlobalTrader": 0
+}

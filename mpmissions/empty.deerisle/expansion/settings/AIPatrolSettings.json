@@ -1,0 +1,286 @@
+{
+    "m_Version": 15,
+    "Enabled": 0,
+    "DespawnTime": 300.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 150.0,
+    "MaxDistRadius": 600.0,
+    "DespawnRadius": 700.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "ObjectPatrols": [],
+    "Patrols": [
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "canibais",
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 100.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    14527.9,
+                    2.8,
+                    6322.41
+                ],
+                [
+                    14512.4,
+                    2.5,
+                    6330.65
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "canibais",
+            "NumberOfAI": 1,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 100.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    14473.8,
+                    6.8,
+                    6362.8
+                ],
+                [
+                    14466.4,
+                    6.8,
+                    6370.00
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "canibais",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 50.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    14506.2,
+                    2.6,
+                    6369.75
+                ],
+                [
+                    14515.9,
+                    2.6,
+                    6381.32
+                ],
+                [
+                    14504.6,
+                    2.6,
+                    6389.54
+                ],
+                [
+                    14494.9,
+                    2.6,
+                    6377.49
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "canibais_sniper",
+            "NumberOfAI": 1,
+            "Behaviour": "HALT",
+            "Speed": "STATIC",
+            "UnderThreatSpeed": "STATIC",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 350.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": [
+                [
+                    14477.7,
+                    14.3,
+                    6435.32
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "canibais_doze",
+            "NumberOfAI": 2,
+            "Behaviour": "ALTERNATE",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 20.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    14551.2,
+                    3.98464,
+                    6341.75
+                ],
+                [
+                    14547.7,
+                    3.96727,
+                    6344.04
+                ]
+            ]
+        },
+        {
+            "Name": "",
+            "Faction": "Shamans",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "LoadoutFile": "canibais_rifle",
+            "NumberOfAI": 3,
+            "Behaviour": "ALTERNATE",
+            "Speed": "RANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 0,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 1.0,
+            "ThreatDistanceLimit": 70.0,
+            "DamageMultiplier": -1.0,
+            "MinDistRadius": -2.0,
+            "MaxDistRadius": -2.0,
+            "DespawnRadius": -2.200000047683716,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    14472.6,
+                    2.31,
+                    6320.26
+                ],
+                [
+                    14368.4,
+                    2.4,
+                    6320.17
+                ],
+                [
+                    14368.8,
+                    2.4,
+                    6383.95
+                ],
+                [
+                    14417.6,
+                    1.5,
+                    6397.52
+                ],
+                [
+                    14458.7,
+                    1.9,
+                    6399.05
+                ],
+                [
+                    14473.9,
+                    2.7,
+                    6372.22
+                ],
+                [
+                    14472.6,
+                    2.31,
+                    6320.26
+                ]
+            ]
+        }
+    ]
+}
