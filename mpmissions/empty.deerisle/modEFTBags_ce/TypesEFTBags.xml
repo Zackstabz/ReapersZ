@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+		<!-- MOCHILAS TARKOV -->
+	<type name="EFT_bag_6sh118">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+		<usage name="Military" />
+		<value name="Tier17" />
+	</type>
+	<type name="EFT_bag_Beta2">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Prison"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Medic"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Firefighter"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier8" />
+	</type>
+	<type name="EFT_bag_BlackJack">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+		<value name="Tier4" />
+	</type>
+	<type name="EFT_bag_DayPack">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Prison"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Medic"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Firefighter"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+	</type>
+	<type name="EFT_bag_Drawbridge">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Prison"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Medic"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Firefighter"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Gunslinger">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Kakashka">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+	</type>
+	<type name="EFT_bag_Kakashka_multi">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+	</type>
+	<type name="EFT_bag_LBT1476a">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Hunting"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Mechanism">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Industrial"/>
+			<usage name="Firefighter"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Medpack">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Medic"/>
+			<usage name="Firefighter"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Molle">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Paratus">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Firefighter"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Piligrim">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+            <usage name="Prison" />
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Redfox">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Industrial"/>
+			<usage name="Coast"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Sanitar">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Medic"/>
+			<usage name="Firefighter"/>
+		<value name="Tier4" />
+	</type>
+	<type name="EFT_bag_SportBag">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Town"/>
+			<usage name="Industrial"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_SSO">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Switchblade">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_T20">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Hunting"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_T20_multi">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Hunting"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_T30">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Hunting"/>
+            <usage name="Prison" />
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_T30_black">
+		<nominal>2</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Tactical">
+		<nominal>3</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+	</type>
+	<type name="EFT_bag_Terminator">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_TriZip">
+		<nominal>1</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_VKBO">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Prison"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Medic"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Firefighter"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Wartech">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Prison"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Medic"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Firefighter"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+	<type name="EFT_bag_Wild">
+		<nominal>5</nominal>
+		<lifetime>21600</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="containers" />
+			<usage name="Military"/>
+			<usage name="Village"/>
+			<usage name="Town"/>
+			<usage name="School"/>
+			<usage name="Prison"/>
+			<usage name="Police"/>
+			<usage name="Office"/>
+			<usage name="Medic"/>
+			<usage name="Industrial"/>
+			<usage name="Hunting"/>
+			<usage name="Firefighter"/>
+			<usage name="Farm"/>
+			<usage name="Coast"/>
+		<value name="Tier1" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+		<value name="Tier6" />
+		<value name="Tier7" />
+		<value name="Tier8" />
+		<value name="Tier9" />
+		<value name="Tier10" />
+		<value name="Tier11" />
+		<value name="Tier12" />
+		<value name="Tier13" />
+		<value name="Tier14" />
+		<value name="Tier15" />
+		<value name="Tier16" />
+		<value name="Tier17" />
+		<value name="Tier18" />
+	</type>
+		<!-- MOCHILAS TARKOV -->
+
+</types>
