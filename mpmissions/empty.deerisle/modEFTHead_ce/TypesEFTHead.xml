@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+
+		<!-- CAPACETES TARKOV -->
+		<!-- CAPACETES TARKOV Class 1 -->
+	<type name="EFT_Shlemofon">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier1"/>
+			<value name="Tier2"/>
+			<value name="Tier3"/>
+	</type>
+		<!-- CAPACETES TARKOV Class 1 -->
+		<!-- CAPACETES TARKOV Class 2 -->
+	<type name="EFT_Jeta">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier5"/>
+	</type>
+	<type name="EFT_Jeta_v">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier5"/>
+	</type>
+	<type name="EFT_Kolpac1C">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier5"/>
+	</type>
+	<type name="EFT_Kolpac1C_v">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier5"/>
+	</type>
+	<type name="EFT_SHPM">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier5"/>
+	</type>
+	<type name="EFT_SHPM_v">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier5"/>
+	</type>
+											<!-- CAPACETES TARKOV Class 2 -->
+											<!-- CAPACETES TARKOV Class 3 -->
+	<type name="EFT_6B47">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+	<type name="EFT_DevTac">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+	<type name="EFT_KiverM">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+	<type name="EFT_LSHZ">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+	<type name="EFT_SFERA">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+	<type name="EFT_SSH68">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+	<type name="EFT_UN">
+		<nominal>3</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier3"/>
+			<value name="Tier1"/>
+			<value name="Tier6"/>
+	</type>
+		<!-- CAPACETES TARKOV Class 3 -->
+		<!-- CAPACETES TARKOV Class 4 -->
+	<type name="EFT_Airframe">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_Airframe_chops1">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_Airframe_chops2">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_Bastion">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_Killa">	<!-- CAPACETE DE BOSS NÃO SPAWNA -->
+		<nominal>0</nominal>
+		<lifetime>600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+	</type>
+	<type name="EFT_Killa_v"> <!-- CAPACETE DE BOSS NÃO SPAWNA -->
+		<nominal>0</nominal>
+		<lifetime>600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />0
+	</type>
+	<type name="EFT_LCHZ2">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_LCHZ2_v">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_Striker">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_TC2001">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+	<type name="EFT_ZSH">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier6"/>
+			<value name="Tier4"/>
+			<value name="Tier5"/>
+			<value name="Tier3"/>
+			<value name="Tier2"/>
+			<value name="Tier1"/>
+	</type>
+		<!-- CAPACETES TARKOV Class 4 -->
+		<!-- CAPACETES TARKOV Class 5 -->
+	<type name="EFT_Altyn">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier12"/>
+			<value name="Tier16"/>
+			<value name="Tier17"/>
+			<value name="Tier11"/>
+			<value name="Tier10"/>
+			<value name="Tier18"/>
+			<value name="Tier14"/>
+			<value name="Tier7"/>
+			<value name="Tier9"/>
+	</type>
+	<type name="EFT_Altyn_v">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier12"/>
+			<value name="Tier16"/>
+			<value name="Tier17"/>
+			<value name="Tier11"/>
+			<value name="Tier10"/>
+			<value name="Tier18"/>
+			<value name="Tier14"/>
+			<value name="Tier7"/>
+			<value name="Tier9"/>
+	</type>
+	<type name="EFT_RysT">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier12"/>
+			<value name="Tier16"/>
+			<value name="Tier17"/>
+			<value name="Tier11"/>
+			<value name="Tier10"/>
+			<value name="Tier18"/>
+			<value name="Tier14"/>
+			<value name="Tier7"/>
+			<value name="Tier9"/>
+	</type>
+	<type name="EFT_RysT_v">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier12"/>
+			<value name="Tier16"/>
+			<value name="Tier17"/>
+			<value name="Tier11"/>
+			<value name="Tier10"/>
+			<value name="Tier18"/>
+			<value name="Tier14"/>
+			<value name="Tier7"/>
+			<value name="Tier9"/>
+	</type>
+		<!-- CAPACETES TARKOV Class 5 -->
+		<!-- CAPACETES TARKOV Class 6 -->
+	<type name="EFT_Vulkan5">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+			<value name="Tier12"/>
+			<value name="Tier16"/>
+			<value name="Tier17"/>
+			<value name="Tier11"/>
+			<value name="Tier10"/>
+			<value name="Tier18"/>
+			<value name="Tier14"/>
+			<value name="Tier7"/>
+			<value name="Tier9"/>
+	</type>
+		<!-- CAPACETES TARKOV Class 6 -->
+		<!-- CAPACETES TARKOV Colecionaveis -->
+	<type name="EFT_Hockey_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Jason_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Kaonasi_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Knight_mask"> <!-- MÁSCARA DE BOSS -->
+		<nominal>0</nominal>
+		<lifetime>600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Michel_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Pestilay_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Respirator_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Slender_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Smoke_mask">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_Pompom">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+		<!-- CAPACETES TARKOV Colecionaveis -->
+		<!-- CAPACETES TARKOV -->
+		<!-- FONES DE OUVIDO TARKOV -->
+	<type name="EFT_head_ComTac2">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_ComTac4">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_GSH">
+		<nominal>7</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_M32">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_Razor">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_Sordini">
+		<nominal>6</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_TacticalSports">
+		<nominal>4</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+	<type name="EFT_head_XCEL">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="1" />
+		<category name="clothes" />
+		<usage name="Military" />
+	</type>
+		<!-- FONES DE OUVIDO TARKOV -->
+
+</types>
